@@ -2,7 +2,7 @@
 
 A comprehensive **Google Looker Studio** dashboard designed to provide data-driven insights into housing trends, property values, location-based demographic analysis, and key real estate market indicators.
 
-🔗 **[Click here to view the Housing Market Intelligence Dashboard]([https://datastudio.google.com/u/0/reporting/6594147e-7ccc-4518-a600-f891b471f353/page/p_7fffdzd73d])**  
+🔗 **[Click here to view the Housing Market Intelligence Dashboard](https://datastudio.google.com/u/0/reporting/6594147e-7ccc-4518-a600-f891b471f353/page/p_7fffdzd73d)**  
 
 
 ---
